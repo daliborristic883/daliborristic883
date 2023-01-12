@@ -40,7 +40,7 @@ as build enduring relationships with software engineers, key stakeholders, senio
 
 ### :fire: My Stats :
 
-[![GitHub Streak]([http://github-readme-streak-stats.herokuapp.com?user=openrepo4u&theme=dark&background=000000](https://github-readme-streak-stats.herokuapp.com/?user=daliborristic883&theme=dark&background=000000))](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daliborristic883&theme=dark&background=000000)](https://git.io/streak-stats)
 <br />
 
 
