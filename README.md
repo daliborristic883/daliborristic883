@@ -5,10 +5,13 @@
 
 
 ### :man_technologist: About Me :
--🔭 Tech-savvy and analytical professional with substantial experience developing websites and mobile applications by using a variety
-of tools, front-end user, and programming interfaces. 
-
--:writing_hand: Proven success managing software development lifecycle from requirement gathering to project execution, planning, building, and debugging applications from system design to writing end-to-end tests, and configuring desktop and other access privileges. 📫 Demonstrated expertise in JavaScript/Typescript, React.js, and React Native, developing applications for Android & iOS and creating fast user interfaces for websites and aplications using React framework. 
+Start program development since 2010, have been software developer, senior developer and lead developer. I love my
+work as a mobile developer, and I welcome the opportunity to bring my enthusiasm and skills to your next project! My
+emphasis is on developing data-driven applications for small businesses largely or internal use, however I have also
+developed and published a number of different types of apps. As a business owner, I am familiar with working on
+deadline, and I bring professionalism, communication, punctuality, and great attention to detail to your projects. I have
+a practical understanding of needs from the client side, which I believe enhances my ability to be an asset and
+contributor to your project.
 
 -👯 Strong communication organizational, and troubleshooting skills with distinctive ability to fix problems/issues as well
 as build enduring relationships with software engineers, key stakeholders, senior management, clients/users, and colleagues.
